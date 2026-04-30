@@ -36,5 +36,5 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/ВАШ_НИК/random-task-generator.git
+https://github.com/egorsterhov77-cmd/attestatsiya
 cd random-task-generator
